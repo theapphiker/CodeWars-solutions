@@ -1,4 +1,4 @@
--- This PostgresSQL turns bad data in a database into a sales opportunity by identifying customers with bad data in a database and turning it into a sales opportunity.
+-- This PostgreSQL turns bad data in a database into a sales opportunity by identifying customers with bad data in a database and turning it into a sales opportunity.
 -- Link to challenge: https://www.codewars.com/kata/58d460e4091c1126a000004c
 
 DROP TABLE IF EXISTS tb1;
