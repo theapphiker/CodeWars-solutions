@@ -1,4 +1,4 @@
--- This PostgresSQL provide an hourly breakdown of the total distance travelled by all cars in the fleet during a certain period.
+-- This PostgreSQL provide an hourly breakdown of the total distance travelled by all cars in the fleet during a certain period.
 -- Link to challenge: https://www.codewars.com/kata/64b3aad51cefd8003c1a35f6/sql
 
 SELECT time_from::TEXT,time_to::TEXT,km,
