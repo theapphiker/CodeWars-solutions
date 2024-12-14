@@ -1,4 +1,4 @@
--- This PostgresSQL takes advantage of poor data security to change the grades of a student.
+-- This PostgreSQL takes advantage of poor data security to change the grades of a student.
 -- Link to challenge: https://www.codewars.com/kata/6535737a94f1d210ccf1895c/sql
 
 ';
