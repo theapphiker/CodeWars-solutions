@@ -1,4 +1,4 @@
--- This PostgresSQL sums all values stored in all columns of type integer across all the user-created tables in a database.
+-- This PostgreSQL sums all values stored in all columns of type integer across all the user-created tables in a database.
 -- Link to challenge: https://www.codewars.com/kata/609a6ab739660a0056fb4a29
 
 CREATE OR REPLACE FUNCTION test_func()
