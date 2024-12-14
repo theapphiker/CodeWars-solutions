@@ -1,4 +1,4 @@
--- This PostgresSQL assigns a "Developer for the Day" in a cyclical manner.
+-- This PostgreSQL assigns a "Developer for the Day" in a cyclical manner.
 -- Link to challenge: https://www.codewars.com/kata/6496dbe08673b33ddae5c733
 
 WITH ne AS (SELECT ROW_NUMBER() OVER (ORDER BY birth_date DESC) AS rn,
